@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mansoor</h1>
 <h3 align="center">A web developer based in the Maldives</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustrigoni&label=Profile%20views&color=0e75b6&style=flat" alt="gustrigoni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmansoor&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmansoor" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gustrigoni&show_icons=true&locale=en" alt="gustrigoni" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmansoor&show_icons=true&locale=en" alt="ahmedmansoor" /></p>
 
 - 🔭 I’m currently working on a mobile app development project
 
