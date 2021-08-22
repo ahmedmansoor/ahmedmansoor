@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmansoor&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmansoor" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmansoor&show_icons=true&locale=en" alt="ahmedmansoor" /></p>
-
 - 🔭 I’m currently working on a mobile app development project
 
 - 🌱 I’m currently learning **React Native**
