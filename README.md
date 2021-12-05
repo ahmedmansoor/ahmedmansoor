@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a mobile app development project
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬  Ask me about **Vue Js, Tailwind CSS and other Frontend Development tools/languages**
 
