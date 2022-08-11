@@ -9,7 +9,7 @@
 
 - 💬  Ask me about **Vue Js, Tailwind CSS and other Frontend Development tools/languages**
 
-- 📫  How to reach me: **<a href="https://www.ahmedmansoor.me/">ahmedmansoor.me</a>**
+  <!-- - 📫  How to reach me: **<a href="https://www.ahmedmansoor.me/">ahmedmansoor.me</a>** --!>
 
 - ⚡ Fun fact: **I know more about Marvel Cinematic Universe than some backend languages**
 
